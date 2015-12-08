@@ -1,7 +1,7 @@
 PoopTunes
 =========
 
-![Screenshot](http://i.imgur.com/7asbvjh.gif)
+![Screenshot](http://i.imgur.com/hDNlauN.gif)
 
 What is it?
 -----------
