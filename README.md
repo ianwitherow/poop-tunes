@@ -17,7 +17,7 @@ PoopTunes
 
 What is it?
 -----------
-Is your bathroom at work too quiet? It's weird, right? *PoopTunes* solves that age-old problem by playing some music when the lights turn on.
+Is your bathroom at work too quiet? It's weird, right? _PoopTunes_ solves that age-old problem by playing some music when the lights turn on.
 
 How do I use it?
 ----------------
