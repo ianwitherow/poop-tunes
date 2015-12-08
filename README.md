@@ -21,7 +21,7 @@ Is your bathroom at work too quiet? It's weird, right? **PoopTunes** solves that
 
 How do I use it?
 ----------------
-* Grab a photoresistor. I found mine on [Amazon] [1], but they're also on [SparkFun] [2] or probably lots of other places.
+* Grab a photoresistor. I found mine on [Amazon](http://www.amazon.com/Sensitive-Resistor-Photoresistor-Optoresistor-GM5539/dp/B00AQVYWA2), but they're also on [SparkFun](https://www.sparkfun.com/products/9088) or probably lots of other places.
 * Wire it up - I used this site as a guide: [https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi/basic-photocell-reading](https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi/basic-photocell-reading)
 * Make sure you have [RPi.GPIO](https://pypi.python.org/pypi/RPi.GPIO) installed
 * Install either MPG123 or MPG321. The script uses MPG123, so if you're using the other one then you'll have to get in there and change it.
@@ -36,6 +36,3 @@ Dependencies
 * RPi.GPIO
 * mpg123 or mpg321 (script uses 123, so if you use 321 you'll have to change that)
 
-
-[1] "http://www.amazon.com/Sensitive-Resistor-Photoresistor-Optoresistor-GM5539/dp/B00AQVYWA2"
-[2] "https://www.sparkfun.com/products/9088"
