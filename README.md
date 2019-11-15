@@ -17,7 +17,7 @@ How do I use it?
 * (Optional) Check the readings for the light levels.
   * Run the script with the --lighting flag, or -l. This will give you the light reading - find a number between the lowest and highest for the 'threshold'. This is the cutoff where the program decides if the light is on or off. For example, if you turn off the light and the reading is at 4000, then you turn on the light and it's at 200, pick somewhere inbetween like 500 or 1000.
 * Run the script with `python poop-tunes.py --threshold [number]`
-  * Threshold is optional (default is 2000). Use this if it's not accurately detecting whether the light is on or off.
+  * Threshold is optional (default is 2000). Use this if it's not accurately detecting whether the light is on or off. Run the script with --lighting to print the light levels.
 
 Dependencies
 ------------
